@@ -54,35 +54,51 @@ export default {
       stacks: [
       {
         checked: false,
-        value: 'language'
+        value: 2010
       },
       {
         checked: false,
-        value: 'framework'
+        value: 2011
       },
       {
         checked: false,
-        value: 'frontend'
+        value: 2012
         },
       {
         checked: false,
-        value: 'backend'
+        value: 2013
       },
       {
         checked: false,
-        value: 'mobile'
+        value: 2014
       },
       {
         checked: false,
-        value: 'web'
+        value: 2015
       },
       {
         checked: false,
-        value: 'hybrid'
+        value: 2016
       },
       {
         checked: false,
-        value: 'database'
+        value: 2017
+      },
+      {
+        checked: false,
+        value: 2018
+      },
+      {
+        checked: false,
+        value: 2019
+      },
+      {
+        checked: false,
+        value: 2020
+      },
+      {
+        checked: false,
+        value: 2021
       }
       ]
     };

@@ -18,14 +18,18 @@ export default {
     return {
     // list of tags to giving each stack a different color
       tags: {
-        language: 'light',
-        framework: 'dark',
-        frontend: 'success',
-        backend: 'danger',
-        mobile: 'warning',
-        web: 'secondary',
-        hybrid: 'info',
-        database: 'danger'
+        2010: 'light',
+        2011: 'dark',
+        2012: 'success',
+        2013: 'danger',
+        2014: 'warning',
+        2015: 'secondary',
+        2016: 'info',
+        2017: 'danger',
+        2018: 'light',
+        2019: 'success',
+        2020: 'warning',
+        2021: 'info'
       }
     }
   },
